@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    height: 1000px;
+    color: rgb(48, 48, 48);
+    background: rgb(219, 140, 140);
+    font-size: 20px;
+}
